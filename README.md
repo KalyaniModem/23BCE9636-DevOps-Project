@@ -196,17 +196,6 @@ Include the following screenshots in your report:
 
 ---
 
-## 👨‍💻 Author
-
-**Modem Kalyani**
-
-**Registration Number:** 23BCE9636
-
-B.Tech CSE (AI & ML)
-
-VIT-AP University
-
----
 
 ## ⭐ Project Status
 
