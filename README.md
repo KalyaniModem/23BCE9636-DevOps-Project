@@ -181,20 +181,6 @@ http://localhost:8082
 
 ---
 
-## 📸 Screenshots
-
-Include the following screenshots in your report:
-
-- Docker Desktop
-- Docker Running Container
-- Docker Hub Repository
-- Kubernetes Deployment
-- Jenkins Pipeline Success
-- Nagios Dashboard
-- Graphite Dashboard
-- Grafana Dashboard
-
----
 
 
 ## ⭐ Project Status
